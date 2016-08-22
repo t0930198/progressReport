@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{The flow of getting data}{3}{0}{1}
+\beamer@sectionintoc {2}{Data format}{7}{0}{2}
+\beamer@sectionintoc {3}{Somebody's data}{8}{0}{3}
