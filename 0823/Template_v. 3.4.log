@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.7.19)  23 AUG 2016 06:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.7.19)  23 AUG 2016 08:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1049,79 +1049,133 @@ Overfull \hbox (87.67415pt too wide) detected at line 39
 [2
 
  <c:/texlive/2016/texmf-dist/tex/latex/beamer/art/defaultContentBackground.jpg>
-]
-LaTeX Font Info:    Try loading font information for U+msa on input line 54.
+] <figures/format.png, id=58, 712.91344pt x 604.50844pt>
+File: figures/format.png Graphic file (type png)
+
+<use figures/format.png>
+Package pdftex.def Info: figures/format.png used on input line 49.
+(pdftex.def)             Requested size: 191.20175pt x 162.1218pt.
+
+Overfull \hbox (87.67415pt too wide) detected at line 49
+ [] 
+ []
+
+[3
+
+ <./figures/format.png>] <figures/time.png, id=65, 589.4522pt x 305.64188pt>
+File: figures/time.png Graphic file (type png)
+
+<use figures/time.png>
+Package pdftex.def Info: figures/time.png used on input line 58.
+(pdftex.def)             Requested size: 273.14656pt x 141.6323pt.
+
+Overfull \hbox (87.67415pt too wide) detected at line 58
+ [] 
+ []
+
+[4
+
+ <./figures/time.png>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 66.
  (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 54.
-
-(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Try loading font information for U+msb on input line 66.
+ (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 54.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 66.
 
 (c:/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 54.
- [3
+Overfull \hbox (87.67415pt too wide) detected at line 66
+ [] 
+ []
+
+[5
 
 ]
-<figures/s1.png, id=51, 1047.915pt x 641.39626pt>
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 80.
+
+Overfull \hbox (87.67415pt too wide) detected at line 80
+ [] 
+ []
+
+[6
+
+] <figures/s0.png, id=81, 1031.35312pt x 602.25pt>
+File: figures/s0.png Graphic file (type png)
+ <use figures/s0.png>
+Package pdftex.def Info: figures/s0.png used on input line 86.
+(pdftex.def)             Requested size: 273.14656pt x 159.4944pt.
+
+<figures/s1.png, id=82, 1047.915pt x 641.39626pt>
 File: figures/s1.png Graphic file (type png)
  <use figures/s1.png>
-Package pdftex.def Info: figures/s1.png used on input line 60.
+Package pdftex.def Info: figures/s1.png used on input line 92.
 (pdftex.def)             Requested size: 273.14656pt x 167.17992pt.
 
-<figures/s2.png, id=53, 1050.92625pt x 642.90187pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7
+
+ <./figures/s0.png>] <figures/s2.png, id=90, 1050.92625pt x 642.90187pt>
 File: figures/s2.png Graphic file (type png)
- <use figures/s2.png>
-Package pdftex.def Info: figures/s2.png used on input line 66.
+
+<use figures/s2.png>
+Package pdftex.def Info: figures/s2.png used on input line 98.
 (pdftex.def)             Requested size: 273.14656pt x 167.09167pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4
-
- <./figures/s1.png>] <figures/s3.png, id=60, 1053.9375pt x 645.16031pt>
+ [8 <./figures/s1.png>] <figures/s3.png, id=97, 1053.9375pt x 645.16031pt>
 File: figures/s3.png Graphic file (type png)
 
 <use figures/s3.png>
-Package pdftex.def Info: figures/s3.png used on input line 72.
+Package pdftex.def Info: figures/s3.png used on input line 104.
 (pdftex.def)             Requested size: 273.14656pt x 167.20612pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5 <./figures/s2.png>] <figures/s4.png, id=67, 1038.88126pt x 652.68843pt>
+ [9 <./figures/s2.png>] <figures/s4.png, id=104, 1038.88126pt x 652.68843pt>
 File: figures/s4.png Graphic file (type png)
 
 <use figures/s4.png>
-Package pdftex.def Info: figures/s4.png used on input line 78.
+Package pdftex.def Info: figures/s4.png used on input line 110.
 (pdftex.def)             Requested size: 273.14656pt x 171.60716pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./figures/s3.png>] <figures/1.png, id=74, 178.6675pt x 139.52126pt>
+ [10 <./figures/s3.png>] <figures/1.png, id=111, 178.6675pt x 139.52126pt>
 File: figures/1.png Graphic file (type png)
 
 <use figures/1.png>
-Package pdftex.def Info: figures/1.png used on input line 91.
-(pdftex.def)             Requested size: 245.83023pt x 191.97961pt.
+Package pdftex.def Info: figures/1.png used on input line 128.
+(pdftex.def)             Requested size: 218.51808pt x 170.64996pt.
+
+Overfull \hbox (87.67415pt too wide) detected at line 128
+ [] 
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7 <./figures/s4.png>] <figures/2.png, id=81, 666.49pt x 579.16376pt>
+ [11 <./figures/s4.png>] [12 <./figures/1.png>]
+<figures/2.png, id=123, 666.49pt x 579.16376pt>
 File: figures/2.png Graphic file (type png)
+ <use figures/2.png>
+Package pdftex.def Info: figures/2.png used on input line 143.
+(pdftex.def)             Requested size: 191.20175pt x 166.15038pt.
 
-<use figures/2.png>
-Package pdftex.def Info: figures/2.png used on input line 104.
-(pdftex.def)             Requested size: 245.83023pt x 213.6156pt.
+Overfull \hbox (87.67415pt too wide) detected at line 143
+ [] 
+ []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[13
 
- [8 <./figures/1.png>] [9 <./figures/2.png>]
+ <./figures/2.png>]
 \tf@nav=\write6
 \openout6 = `"Template_v. 3.4.nav"'.
 
@@ -1131,31 +1185,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \tf@snm=\write8
 \openout8 = `"Template_v. 3.4.snm"'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
  (./Template_v. 3.4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
 Package rerunfilecheck Info: File `"Template_v. 3.4".out' has not changed.
-(rerunfilecheck)             Checksum: 620C9F8C2DF87154DDC9575CAE4BFFA5;155.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
+(rerunfilecheck)             Checksum: C74A78D6357491B0FA78CBAB18B6C937;254.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
- 20646 strings out of 493014
- 403350 string characters out of 6137001
- 473272 words of memory out of 5000000
- 23645 multiletter control sequences out of 15000+600000
- 24237 words of font info for 54 fonts, out of 8000000 for 9000
+ 20688 strings out of 493014
+ 403863 string characters out of 6137001
+ 474273 words of memory out of 5000000
+ 23675 multiletter control sequences out of 15000+600000
+ 25391 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,16n,83p,921b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2016/texm
 f-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2016/texmf-di
 st/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/
 urw/helvetic/uhvr8a.pfb>
-Output written on "Template_v. 3.4.pdf" (9 pages, 804162 bytes).
+Output written on "Template_v. 3.4.pdf" (13 pages, 1010773 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 500000)
- 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
 

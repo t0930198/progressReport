@@ -358,6 +358,12 @@ INPUT c:/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
+INPUT figures/format.png
+INPUT ./figures/format.png
+INPUT ./figures/format.png
+INPUT figures/time.png
+INPUT ./figures/time.png
+INPUT ./figures/time.png
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
@@ -386,9 +392,14 @@ INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
+INPUT figures/s0.png
+INPUT ./figures/s0.png
+INPUT ./figures/s0.png
 INPUT figures/s1.png
 INPUT ./figures/s1.png
 INPUT ./figures/s1.png
