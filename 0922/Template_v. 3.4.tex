@@ -47,17 +47,13 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Aim} 
+\begin{frame} {Aim} 
     \begin{itemize}
         \item \textbf{In order to alleviate the RAN overload,}
+        \item {We focus on the objective that can increase access success probability and relieve the access delays.}
+        \item \textbf{Accroding to traditional ACB factor is fixed.}
+        \item {We proposed an algorithm to make eNB be able to change ACB factor dynamically.} 
     \end{itemize}
-
-    \begin{itemize}
-        \item \textbf{we focus on the objective that can increase access success probability and relieve the access delays.}
-    \end{itemize}
-    \item \textbf{Traditional ACB factor is fixed.}
-    \item \textbf{We proposed an algorithm that eNB be able to change ACB factor dynamically.} 
-
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -75,16 +71,45 @@
 
 \end{frame}
 \begin{frame}{Background}
-    \item{four step in random access procedure}
-    % img
+    \begin{itemize}
+    \item{4 step in random access procedure}
+    \end{itemize}
+    \begin{figure}[t]
+        \centering
+        \includegraphics[width=0.6\textwidth]{figures/rach.png}
+        \setbeamerfont{caption}{size=\tiny}
+        \caption{RAP}
+    \end{figure}
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{System model}
-\begin{frame}{System model}
+\begin{frame}{{System model}\\Random Access Procedure}
+    \begin{itemize}
+        \item{Devices will receive info from SIB2}
+        \item{Device will choose a preamble and increase preamble transmission}
+        \begin{itemize}
+            \item wait for RAR(Msg2)
+            \item if fail to receive RAR, it will wait for a backoff time to retry if the number of transmission is smaller than maximum
+        \end{itemize}
+        \item{Sending the connection request(Msg3)}
+        \begin{itemize}
+            \item{If successfully to transmit the preamble to eNB, it will finish the RAP}
+            \item if fail to receive contend resolution(Msg4), it will wait for a backoff time to retry if the number of transmission is smaller than maximum
+        \end{itemize}
+    \end{itemize}
 \end{frame}
 
+\begin{frame}{System model}
+    
+\end{frame}
+\begin{frame}{System model}
+    
+\end{frame}
+\begin{frame}{System model}
+    
+\end{frame}
 \begin{frame}{System model}
     
 \end{frame}
