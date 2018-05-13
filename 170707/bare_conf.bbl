@@ -1,0 +1,104 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{3GPP22.368}
+{3GPP TR 22.368 v13.0.0}, ``{{Service requirements for Machine-Type
+  Communications}},'' June 2014.
+
+\bibitem{lien2011toward}
+S.-Y. Lien, K.-C. Chen, and Y.~Lin, ``{Toward Ubiquitous Massive Accesses in
+  3GPP Machine-to-Machine Communications},'' \emph{IEEE Commun. Mag.}, vol.~49,
+  no.~4, pp. 66--74, Apr. 2011.
+
+\bibitem{3GPP22.868}
+{3GPP TR 22.868 v8.0.0}, ``{{Study on facilitating machine to machine
+  communication in 3GPP systems}},'' July 2007.
+
+\bibitem{3GPP23.888}
+{3GPP TR 23.888 v11.0.0}, ``{{System improvements for Machine-Type
+  Communications (MTC)}},'' Sept. 2012.
+
+\bibitem{ABI}
+{ABI Research}, ``{{Cellular M2M Connectivity Services: The Market Opportunity
+  for Moblie Operators, MVNOs, and Other Connectivity Service Providers}},''
+  2012.
+
+\bibitem{rajandekar2015survey}
+A.~Rajandekar and B.~Sikdar, ``{A Survey of MAC Layer Issues and Protocols for
+  Machine-to-Machine Communications},'' \emph{IEEE Internet of Things Journal},
+  vol.~2, no.~2, pp. 175--186, 2015.
+
+\bibitem{3GPP37.868}
+{3GPP TR 37.868 v11.0.0}, ``{{Study on RAN Improvements for Machine-type
+  Communications}},'' Oct. 2011.
+
+\bibitem{hasan2013random}
+M.~Hasan, E.~Hossain, and D.~Niyato, ``{Random access for machine-to-machine
+  communication in LTE-advanced networks: issues and approaches},'' \emph{IEEE
+  Commun Mag.}, vol.~51, no.~6, pp. 86--93, 2013.
+
+\bibitem{cao2013cellular}
+F.~Cao and Z.~Fan, ``{Cellular M2M network access congestion: Performance
+  analysis and solutions},'' in \emph{Proc. IEEE WiMob 2013}, Oct. 2013, pp.
+  39--44.
+
+\bibitem{gotsis2012m2m}
+A.~G. Gotsis, A.~S. Lioumpas, and A.~Alexiou, ``{M2M scheduling over LTE:
+  Challenges and new perspectives},'' \emph{IEEE Vehicular Technology
+  Magazine}, vol.~7, no.~3, pp. 34--39, 2012.
+
+\bibitem{R2-103742}
+{3GPP RAN2 70bis,R2-103742}, ``{{RACH overload solutions}},'' July 2010.
+
+\bibitem{3GPP22.011}
+{3GPP TR 22.011 v13.1.0}, ``{{Technical Specification Group Services and System
+  Aspects;Service accessibility}},'' Sept. 2014.
+
+\bibitem{cheng2011prioritized}
+J.-P. Cheng, C.-H. Lee, and T.-M. Lin, ``{Prioritized Random Access with
+  Dynamic Access Barring for MTC in 3GPP LTE-A Networks},'' in \emph{Proc. IEEE
+  GLOBECOM 2011 workshops}, Dec. 2011, pp. 368--372.
+
+\bibitem{de2015random}
+T.~P. de~Andrade, C.~A. Astudillo, and N.~L. da~Fonseca, ``{Random Access
+  Mechanism for RAN Overload Control in LTE/LTE-A Networks},'' in \emph{Proc.
+  IEEE ICC 2015}, June. 2015, pp. 7607--7612.
+
+\bibitem{Ho2015Traffic}
+H.-L. He, Q.-H. Du, H.-B. Song, W.-Y. Li, Y.-C. Wang, and P.-Y. Ren,
+  ``{Traffic-Aware ACB Scheme for Massive Access in Machine-to-Machine
+  Networks},'' in \emph{Proc. IEEE ICC 2015}, June. 2015, pp. 2226--2231.
+
+\bibitem{jihun2016adaptive}
+J.~Moon and Y.~Lim, ``Adaptive access class barring for machine-type
+  communications in lte-a,'' in \emph{Proc. IEEE ICUFN 2016}, Aug. 2016, pp.
+  398--402.
+
+\bibitem{suyang2016dacb}
+S.~Duan, V.~Shah-Mansouri, Z.~Wang, and V.~W.~S. Wong, ``D-acb: Adaptive
+  congestion control algorithm for bursty m2m traffic in lte networks,''
+  \emph{IEEE Transactions on Vehicular Technology}, vol.~65, no.~12, pp.
+  9847--9861, Feb. 2016.
+
+\bibitem{lin2015estimation}
+G.-Y. Lin, S.-R. Chang, and H.-Y. Wei, ``{Estimation and Adaptation for Bursty
+  LTE Random Access},'' 2015, to be published.
+
+\end{thebibliography}

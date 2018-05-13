@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{6489075}
+U.~Phuyal, A.~T. Koc, M.~H. Fong, and R.~Vannithamby, ``Controlling access
+  overload and signaling congestion in m2m networks,'' in \emph{2012 Conference
+  Record of the Forty Sixth Asilomar Conference on Signals, Systems and
+  Computers (ASILOMAR)}, Nov 2012, pp. 591--595.
+
+\bibitem{spec}
+\BIBentryALTinterwordspacing
+3gpp ts 36.331. [Online]. Available:
+  \url{http://www.3gpp.org/ftp/Specs/archive/36_series/36.331/36331-e10.zip}
+\BIBentrySTDinterwordspacing
+
+\end{thebibliography}

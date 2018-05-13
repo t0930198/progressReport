@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{Zangar16}
+N.~Zangar, S.~Gharbi, and M.~Abdennebi, ``Service differentiation strategy
+  based on macb factor for m2m communications in lte-a networks,'' in
+  \emph{2016 13th IEEE Annual Consumer Communications Networking Conference
+  (CCNC)}, Jan 2016, pp. 693--698.
+
+\bibitem{Guan16}
+L.~Guan, B.~Yan, Z.~Guo, and Y.~Gong, ``Priority-based random access control
+  mechanism for m2m communications,'' in \emph{2016 2nd IEEE International
+  Conference on Computer and Communications (ICCC)}, Oct 2016, pp. 2313--2317.
+
+\bibitem{HanHSDS17}
+B.~Han, O.~Holland, V.~Sciancalepore, M.~Dohler, and H.~D. Schotten,
+  ``D2d-based grouped random access to mitigate radio access network congestion
+  in massive machine-type communications,'' \emph{CoRR}, vol. abs/1705.02777,
+  May 2017.
+
+\bibitem{HanHS17}
+B.~Han and M.~A.~H. andHans D.~Schotten, ``Optimal resource dedication in
+  grouped random access for massive machine-type communications,'' \emph{CoRR},
+  vol. abs/1707.09811, Jul 2017.
+
+\bibitem{OAI}
+\BIBentryALTinterwordspacing
+A.~Ksentini. (2017) openairinterface5g. [Online]. Available:
+  \url{https://gitlab.eurecom.fr/oai/openairinterface5g/tree/develop-nb-iot}
+\BIBentrySTDinterwordspacing
+
+\end{thebibliography}

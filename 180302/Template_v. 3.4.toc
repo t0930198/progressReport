@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Intorduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Architecture}{4}{0}{2}
+\beamer@sectionintoc {3}{Challenges}{5}{0}{3}
+\beamer@sectionintoc {4}{Solution}{8}{0}{4}
+\beamer@sectionintoc {5}{References}{11}{0}{5}

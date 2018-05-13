@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{The EdgeIoT Architecture}{6}{0}{2}
+\beamer@sectionintoc {3}{The Hierarchical Fog Computing Architecture}{8}{0}{3}
+\beamer@sectionintoc {4}{Challenges}{13}{0}{4}
+\beamer@sectionintoc {5}{References}{17}{0}{5}

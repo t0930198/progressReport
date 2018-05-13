@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Aim}{3}{0}{1}
+\beamer@sectionintoc {2}{Solution}{4}{0}{2}
+\beamer@sectionintoc {3}{Result}{5}{0}{3}

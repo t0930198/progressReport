@@ -1,0 +1,40 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{Li15}
+M.~Li, P.~Li, X.~Huang, Y.~Fang, and S.~Glisic, ``Energy consumption
+  optimization for multihop cognitive cellular networks,'' \emph{{IEEE} Trans.
+  Mobile Comput.}, vol.~14, no.~2, pp. 358--372, Feb. 2015.
+
+\bibitem{CPY11}
+P.-Y. Chen and K.-C. Chen, ``Optimal control of epidemic information
+  dissemination in mobile ad hoc networks,'' in \emph{IEEE GLOBECOM 2011}, Dec.
+  2011, pp. 1--5.
+
+\bibitem{Meyn07}
+S.~Meyn, \emph{Control Techniques for Complex Networks}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Cambridge University Press, Dec. 2007.
+
+\bibitem{Hartl1995}
+R.~F. Hartl, S.~P. Sethi, and R.~G. Vickson, ``A survey of the maximum
+  principles for optimal control problems with state constraints,'' \emph{SIAM
+  Review}, vol.~37, no.~2, pp. 181--218, June 1995.
+
+\end{thebibliography}

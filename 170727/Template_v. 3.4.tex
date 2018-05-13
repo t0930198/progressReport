@@ -1,0 +1,63 @@
+\documentclass{beamer}
+\usetheme{ConnectivityLab}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{verbatim}
+\usepackage{outlines}
+\usepackage{fancyhdr}
+\usepackage{subfigure}
+\usepackage{cancel}
+\usepackage{bibentry}
+\usepackage{varwidth}
+\usepackage{etoolbox}
+\usepackage{epstopdf}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title {
+    Progress report
+}
+\author {
+    Yin-Hong, Hsu
+}
+\date {
+    07 27, 2017
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\begin{frame}
+    \titlepage
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}{Outline}
+    \tableofcontentsgather
+    \tableofcontents
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Debug the experiment for proposed solution}
+
+\begin{frame}{In Verify function}
+    \begin{itemize}
+        \item {The output of Sign function M, N is not equal to the variable M' and N' in Verify function}
+        \item {The description for these function are fuzzy so that I'm not sure the correct way to implement}
+        \begin{itemize}
+            \item [-] {$h_k = H_1(m||M||N||R_1||\rho ||U_k)$}
+            \item [-] {$\mu_0 = H_0(0||r_0||m||ring)$}
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+\begin{frame} {Solution}  
+    \begin{itemize}
+        \item {As the description on paper, the Verify function is run on the AS side}
+        \item {So that it's can be removed from UE side program}
+    \end{itemize}
+\end{frame}
+\end{document}

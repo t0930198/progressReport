@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Attack model}{3}{0}{1}
+\beamer@sectionintoc {2}{Assumption}{7}{0}{2}
+\beamer@sectionintoc {3}{Other benefits}{8}{0}{3}
+\beamer@sectionintoc {4}{References}{9}{0}{4}

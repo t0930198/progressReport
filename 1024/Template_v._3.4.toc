@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Aim}{3}{0}{1}
+\beamer@sectionintoc {2}{Background}{4}{0}{2}
+\beamer@sectionintoc {3}{Proposed solution}{5}{0}{3}
+\beamer@sectionintoc {4}{Result}{8}{0}{4}
+\beamer@sectionintoc {5}{References}{12}{0}{5}

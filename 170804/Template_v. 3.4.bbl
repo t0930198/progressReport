@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{1707.09811}
+B.~Han, M.~A. Habibi, and H.~D. Schotten, ``Optimal resource dedication in
+  grouped random access for massive machine-type communications,'' Jul 2017.
+
+\bibitem{1705.02777}
+B.~Han, O.~Holland, V.~Sciancalepore, M.~Dohler, and H.~D. Schotten,
+  ``D2d-based grouped random access to mitigate radio access network congestion
+  in massive machine-type communications,'' May 2017.
+
+\end{thebibliography}

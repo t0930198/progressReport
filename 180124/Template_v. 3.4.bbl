@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{7997116}
+J.~Ni, K.~Zhang, X.~Lin, Q.~Xia, and X.~S. Shen, ``Privacy-preserving mobile
+  crowdsensing for located-based applications,'' in \emph{2017 IEEE
+  International Conference on Communications (ICC)}, May 2017, pp. 1--6.
+
+\bibitem{6355604}
+M.~H. Au, W.~Susilo, Y.~Mu, and S.~S.~M. Chow, ``Constant-size dynamic k-times
+  anonymous authentication,'' \emph{IEEE Systems Journal}, vol.~7, no.~2, pp.
+  249--261, June 2013.
+
+\bibitem{openfog}
+\BIBentryALTinterwordspacing
+O.~Consortium. (2017) Openfog reference architecture for fog computing.
+  [Online]. Available:
+  \url{https://www.openfogconsortium.org/wp-content/uploads/OpenFog_Reference_Architecture_2_09_17-FINAL.pdf}
+\BIBentrySTDinterwordspacing
+
+\end{thebibliography}

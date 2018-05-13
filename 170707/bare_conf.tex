@@ -1,0 +1,87 @@
+\documentclass[journal]{IEEEtran}
+
+\usepackage{algorithm}
+\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{color}
+\usepackage{amsmath,amssymb,amsfonts,amsthm}
+\usepackage{bm}
+\usepackage{multirow}
+\usepackage{subfig}
+\usepackage{tabularx}
+\usepackage{amsfonts}
+\usepackage{comment}
+\usepackage{slashbox}
+\usepackage{rotating}
+\usepackage{booktabs,threeparttable}
+\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+\usepackage{pdfpages}
+
+\begin{document}
+\title{Semester Report}
+
+
+% author names and affiliations
+% use a multiple column layout for up to three different
+% affiliations
+\author{Yin-Hong Hsu}
+
+% make the title area
+\maketitle
+% in the abstract
+\begin{abstract}
+	To briefly describe what I have done in this semester.
+	The each subjects are list as a section. And in each subject, all topics are listed.      
+\end{abstract}
+
+% no keywords
+
+
+
+
+% For peer review papers, you can put extra information on the cover
+% page as needed:
+% \ifCLASSOPTIONpeerreview
+% \begin{center} \bfseries EDICS Category: 3-BBND \end{center}
+% \fi
+%
+% For peerreview papers, this IEEEtran command inserts a page break and
+% creates the second title. It will be ignored for other modes.
+\IEEEpeerreviewmaketitle
+
+\input{sections/ACB.tex}
+\input{sections/Project.tex}
+\input{sections/Ring.tex}
+	\begin{figure}[t]
+    \centering
+    \includegraphics[width=3.5in]{figure/layout.png}
+    \caption{They change the UI for several times}
+    \label{fig_UI_flow}
+    \end{figure}
+    \begin{figure}[t]
+    \centering
+    \includegraphics[width=3.5in]{figure/uiflow.png}
+    \caption{New Design for User Interface} 
+    \label{fig_UI_design}
+    \end{figure}
+    \begin{figure}[t]
+    \centering
+    \includegraphics[width=3.5in]{figure/ab.png}
+    \caption{The access barring process for NB-IoT}
+    \label{fig_Access_Barring}
+    \end{figure}
+
+% conference papers do not normally have an appendix
+
+\bibliographystyle{ieeetran}  % 使用 IEEE Trans 期刊格式
+% {\footnotesize
+% \bibliography{IEEEabrv,my_bib}  %reference 所需的bib檔
+% }
+
+% that's all folks
+\end{document}
+
+

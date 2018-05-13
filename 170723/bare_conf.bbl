@@ -1,0 +1,56 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{zeng2015privacy}
+S.~Zeng, Y.~Huang, and X.~Liu, ``{Privacy-preserving communication for VANETs
+  with conditionally anonymous ring signature},'' \emph{International Journal
+  of Network Security}, vol.~17, no.~2, pp. 135--141, Mar. 2015.
+
+\bibitem{zeng2012efficient}
+S.~Zeng, S.~Jiang, and Z.~Qin, ``An efficient conditionally anonymous ring
+  signature in the random oracle model,'' \emph{Theoretical Computer Science},
+  vol. 461, pp. 106--114, Nov. 2012.
+
+\bibitem{tsai2016secure}
+J.-L. Tsai and N.-W. Lo, ``Secure anonymous key distribution scheme for smart
+  grid,'' \emph{IEEE Trans. Smart Grid}, vol.~7, no.~2, pp. 906--914, June
+  2016.
+
+\bibitem{he2015user}
+D.~He, S.~Chan, and M.~Guizani, ``User privacy and data trustworthiness in
+  mobile crowd sensing,'' \emph{IEEE Wireless Communications}, vol.~22, no.~1,
+  pp. 28--34, Feb. 2015.
+
+\bibitem{dhivya2015effective}
+V.~Dhivya, H.~Anandakumar, and M.~Sivakumar, ``An effective group formation in
+  the cloud based on ring signature,'' in \emph{Proc. IEEE ISCO 2015}.\hskip
+  1em plus 0.5em minus 0.4em\relax IEEE, Jan. 2015, pp. 1--4.
+
+\bibitem{bultel2016k}
+X.~Bultel and P.~Lafourcade, ``k-times full traceable ring signature,'' in
+  \emph{Proc. IEEE ARES 2016}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  Aug. 2016, pp. 39--48.
+
+\bibitem{chandanapriya2016effective}
+E.~Chandanapriya and G.~Murali, ``Effective data sharing using advanced ring
+  signature with forward security,'' in \emph{Proc. IEEE ICCES 2016}.\hskip 1em
+  plus 0.5em minus 0.4em\relax IEEE, Oct. 2016, pp. 1--5.
+
+\end{thebibliography}

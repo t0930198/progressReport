@@ -1,0 +1,116 @@
+\documentclass{beamer}
+\usetheme{ConnectivityLab}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{verbatim}
+\usepackage{outlines}
+\usepackage{fancyhdr}
+\usepackage{subfigure}
+\usepackage{cancel}
+\usepackage{bibentry}
+\usepackage{varwidth}
+\usepackage{etoolbox}
+\usepackage{epstopdf}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title {
+    A Probably Secure Ring Signature Scheme in Certificateless Cryptography \cite{2017arXiv171209145Z}
+}
+\author {
+    Yin-Hong Hsu
+}
+\date {
+    01 10, 2018
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\begin{frame}
+    \titlepage
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}{Outline}
+    \tableofcontentsgather
+    \tableofcontents
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Preliminaries}
+\begin{frame} {Preliminaries} 
+    \begin{itemize}
+        \item {certificateless ring signature}
+        \begin{itemize}
+                \item [-]{setup}
+                \item [-]{partial-private-key-extract}
+                \item [-]{set-secret-value}
+                \item [-]{set-private-key}
+                \item [-]{set-public-key}
+                \item [-]{ring-sign}
+                \item [-]{verify}
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+\section{Security Model}
+\begin{frame}{Security Model}
+    \begin{itemize}
+        \item {Type I Adverary}
+        \begin{itemize}
+                \item [-]{replace user's public key}
+        \end{itemize}
+        \item {Type II Adverary}
+        \begin{itemize}
+                \item [-]{access to the master key (which be used to be a part of private key)}
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+\begin{frame}{Security Model}
+    \begin{itemize}
+        \item {Game I: Unforgeability of CL-Ring against Type I Adversery}
+        \item {Game II: Unforgeability of CL-Ring against Type II Adversery}
+    \end{itemize}
+\end{frame}
+\section{Analysis of A Generic Construction of CL-Ring}
+\begin{frame}{Analysis of A Generic Construction of CL-Ring}
+    \begin{itemize}
+        \item {Construction of CL-Ring}
+        \begin{itemize}
+                \item [-]{Detail of 7 functions were mentioned in page 2}
+        \end{itemize}
+        \item {And some security analysis with Game I and II}
+    \end{itemize}
+\end{frame}
+\section{A Concrete CL-Ring Scheme}
+\begin{frame}{A Concrete CL-Ring Scheme}
+    \begin{itemize}
+        \item {Different algorithm for these 7 functions}
+        \item {The number of pairing computation is constant and dose not grow with the number of group members}
+    \end{itemize}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{References}
+\calcreferencespagetotal % Calc your References Page total number
+\begin{frame}[allowframebreaks]{References}
+    \fontsize{9pt}{13}\selectfont
+    \bibliographystyle{IEEEtran}
+    \bibliography{IEEEabrv,Citation}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{}
+
+\begin{frame}
+    \centering
+    \Large{Thanks for Your Attentions}
+\end{frame}
+
+\end{document}

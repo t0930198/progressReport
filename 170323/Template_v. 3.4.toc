@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Extended Access Barring}{3}{0}{1}
+\beamer@sectionintoc {2}{Process of Access Barring in NB-IOT}{5}{0}{2}
+\beamer@sectionintoc {3}{References}{7}{0}{3}

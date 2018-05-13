@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{4}{0}{1}
+\beamer@sectionintoc {2}{Preliminaries}{13}{0}{2}
+\beamer@sectionintoc {3}{Architecture}{17}{0}{3}
+\beamer@sectionintoc {4}{Procedure}{19}{0}{4}
+\beamer@sectionintoc {5}{Attack model}{28}{0}{5}
+\beamer@sectionintoc {6}{References}{32}{0}{6}

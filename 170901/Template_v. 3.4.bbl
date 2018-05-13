@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{Guan16}
+L.~Guan, B.~Yan, Z.~Guo, and Y.~Gong, ``Priority-based random access control
+  mechanism for m2m communications,'' in \emph{2016 2nd IEEE International
+  Conference on Computer and Communications (ICCC)}, Oct 2016, pp. 2313--2317.
+
+\bibitem{Zangar16}
+N.~Zangar, S.~Gharbi, and M.~Abdennebi, ``Service differentiation strategy
+  based on macb factor for m2m communications in lte-a networks,'' in
+  \emph{2016 13th IEEE Annual Consumer Communications Networking Conference
+  (CCNC)}, Jan 2016, pp. 693--698.
+
+\end{thebibliography}
